@@ -20,7 +20,7 @@ Sprint takibi yapan ekiplerin veya bireylerin günlük görevlerini organize etm
 
 | Ana Ekran | Görev Ekleme/Düzenleme |
 |:---:|:---:|
-| <img src="link_ekle_ana_ekran.png" width="250"> | <img src="link_ekle_modal_ekran.png" width="250"> |
+| <img src="'/Users/samedbucakli/Desktop/Mobile App Task/List Detail Screen That Groups Records/ScreenShot/Ekran Resmi 2026-05-02 14.28.02.png'" width="250"> | <img src="'/Users/samedbucakli/Desktop/Mobile App Task/List Detail Screen That Groups Records/ScreenShot/Ekran Resmi 2026-05-02 14.28.18.png'" width="250"> |
 
 ## 🛠️ Kullanılan Teknolojiler
 
